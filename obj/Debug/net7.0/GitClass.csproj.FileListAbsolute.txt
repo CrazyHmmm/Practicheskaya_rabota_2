@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\GitClass\bin\Debug\net7.0\GitClass.exe
+C:\Users\student\Desktop\GitClass\bin\Debug\net7.0\GitClass.deps.json
+C:\Users\student\Desktop\GitClass\bin\Debug\net7.0\GitClass.runtimeconfig.json
+C:\Users\student\Desktop\GitClass\bin\Debug\net7.0\GitClass.dll
+C:\Users\student\Desktop\GitClass\bin\Debug\net7.0\GitClass.pdb
+C:\Users\student\Desktop\GitClass\obj\Debug\net7.0\GitClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\GitClass\obj\Debug\net7.0\GitClass.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\GitClass\obj\Debug\net7.0\GitClass.AssemblyInfo.cs
+C:\Users\student\Desktop\GitClass\obj\Debug\net7.0\GitClass.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\GitClass\obj\Debug\net7.0\GitClass.dll
+C:\Users\student\Desktop\GitClass\obj\Debug\net7.0\refint\GitClass.dll
+C:\Users\student\Desktop\GitClass\obj\Debug\net7.0\GitClass.pdb
+C:\Users\student\Desktop\GitClass\obj\Debug\net7.0\GitClass.genruntimeconfig.cache
+C:\Users\student\Desktop\GitClass\obj\Debug\net7.0\ref\GitClass.dll
